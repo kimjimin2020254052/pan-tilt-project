@@ -11,6 +11,7 @@ soure install/setup.bash
 
 4. Raspberrypi 연결시
 binoy@ip_address
+192.168.0.221
 => password : pi
 
 5. terminator
